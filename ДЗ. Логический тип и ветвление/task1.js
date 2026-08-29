@@ -1,5 +1,5 @@
-let username = 'admin';
-let balance = 5005;
+let username = 'Vova';
+let balance = 90;
 
 if (username === 'admin') {
   console.log('Администратор');
