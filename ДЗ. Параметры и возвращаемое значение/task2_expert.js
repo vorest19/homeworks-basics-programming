@@ -100,3 +100,4 @@ function printThreadMessages (thread , messagesToPrint) {
   });
 }
  printThreadMessages(thread, 5);
+ 
